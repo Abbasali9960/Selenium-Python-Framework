@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1172ae56-4172-44ff-b7f0-386ca36246d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YNYpHZTswQ4hU5kB7oCoVwPhiJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Python-Test-Automation-Framework-master" is-module-sdk="true" working-directory="C:/Python3.8">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Python-Test-Automation-Framework-master" />
+        <option name="myWorkingDirectory" value="C:/Python3.8" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.SeleniumPythonTestSuite">
+    <configuration name="SeleniumPythonTestSuite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Test-Automation-Framework-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSuite/SeleniumPythonTestSuite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for ForgotPassword.Flipcart1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python-Test-Automation-Framework-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ForgotPassword.Flipcart1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in ForgotPassword.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python-Test-Automation-Framework-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/ForgotPassword.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in ProductPlaceOrder.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python-Test-Automation-Framework-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/ProductPlaceOrder.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SeleniumPythonTestSuite" />
+      <item itemvalue="Python tests.Unittests for ForgotPassword.Flipcart1" />
+      <item itemvalue="Python tests.Unittests in ForgotPassword.py" />
+      <item itemvalue="Python tests.Unittests in ProductPlaceOrder.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SeleniumPythonTestSuite" />
+        <item itemvalue="Python tests.Unittests in ForgotPassword.py" />
+        <item itemvalue="Python tests.Unittests for ForgotPassword.Flipcart1" />
+        <item itemvalue="Python tests.Unittests in ProductPlaceOrder.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1172ae56-4172-44ff-b7f0-386ca36246d3" name="Default Changelist" comment="" />
+      <created>1582784699866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582784699866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" width="1092" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582786357135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" width="1092" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582786357135" />
+    <state x="413" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582789173432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582789173432" />
+    <state x="417" y="125" key="EnvironmentVariablesDialog" timestamp="1582786355738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="125" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582786355738" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1582796779397">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582796779397" />
+    <state width="1344" height="2" key="GridCell.Tab.0.bottom" timestamp="1582809589783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582809589783" />
+    <state width="1344" height="2" key="GridCell.Tab.0.center" timestamp="1582809589782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582809589782" />
+    <state width="1344" height="2" key="GridCell.Tab.0.left" timestamp="1582809589782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582809589782" />
+    <state width="1344" height="2" key="GridCell.Tab.0.right" timestamp="1582809589782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582809589782" />
+    <state width="1344" height="216" key="GridCell.Tab.1.bottom" timestamp="1582800725755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582800725755" />
+    <state width="1344" height="216" key="GridCell.Tab.1.center" timestamp="1582800725754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582800725754" />
+    <state width="1344" height="216" key="GridCell.Tab.1.left" timestamp="1582800725754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582800725754" />
+    <state width="1344" height="216" key="GridCell.Tab.1.right" timestamp="1582800725754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582800725754" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1582785913925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582785913925" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1582870987020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582870987020" />
+    <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582796816306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1582796816306" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/ProductPlaceOrder.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TestSuite/SeleniumPythonTestSuite.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
